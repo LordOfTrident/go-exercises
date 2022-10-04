@@ -1,0 +1,21 @@
+	This is a comment!
+echo Hello, user!
+echo Your home directory is $HOME
+echo I know it because i read the \$HOME environment variable :)\n
+
+	Output the current prompt
+echo Current prompt: $PS1
+
+	Change the prompt
+PS1: PROMPT>
+
+	Output the prompt
+echo New prompt: \s\s\s $PS1
+
+	Exit the program with exitcode 0
+halt
+	To exit with other exitcodes, use 'halt N' where N is the exitcode
+
+	This code will not run
+echo I will not be displayed
+ehco Because the program quit before i could run :(
