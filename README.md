@@ -23,7 +23,7 @@
 * [Make](#make)
 
 ## Introduction
-10 tiny simple exercise projects i made to practice Go
+9 tiny simple exercise projects i made to practice Go
 
 ## Run
 Run `go build` in each folder to compile that program, then just run the generated executable
